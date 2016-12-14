@@ -1,5 +1,5 @@
 # skeleton-frontend-angular
-Skeleton angular/sass/es6 front-end.
+Skeleton angular/sass/es7 front-end.
 
 Setup
 -----
